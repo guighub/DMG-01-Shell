@@ -13,3 +13,6 @@ This is untested on a traditional FDM printer since I havent had time to prep my
 
 ## Where are the CAD files?
 The CAD files will be on [my Ko-fi page](https://ko-fi.com/guiguig) for the time being, but they will be released for free when the project is mostly completed.
+
+## Fonts
+The fonts used for the port labels (PHONES, EXT. CONNECTER, etc.) is **Futura PT Book**, while the "Game Boy" logo text is in **Gill Sans Nova Book**.
